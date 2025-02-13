@@ -28,6 +28,12 @@ language:
 4. **train/global_step**: This chart shows the increase in global training steps. As the training progresses, the step count gradually increases, indicating the progress of the training process.
 5. **train/epoch**: This chart represents the progress of each training epoch. As the global steps increase, the epoch count also steadily grows.
 
+# Model  Download
+
+| **Model**                        | **Base Model**                                               | **Download**                                                 |
+| -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| DeepSeek-R1-Distill-Llama-sql-8B | [Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B) | [🤗 HuggingFace](https://huggingface.co/jackcwf/deepseek_sql_model/blob/main/unsloth.Q8_0.gguf) |
+
 
 ## Usage
 
